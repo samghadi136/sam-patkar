@@ -1,3 +1,4 @@
 # sam-patkar
-This is college work
-Author-Samarth Ghadigaonkar
+This is college work repository.
+<br>
+Author-Samarth Ghadigaonkar.
